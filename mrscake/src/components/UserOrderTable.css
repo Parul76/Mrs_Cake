@@ -1,0 +1,28 @@
+.id-column {
+    width: 20% !important;
+}
+
+.number-column {
+    width: 20% !important;
+}
+
+.userId-column {
+    width: 20% !important;
+}
+.deliveryMethod-column {
+    width: 20% !important;
+}
+
+
+.OrderTableContainer {
+    padding-top: 100px;
+    padding-bottom: 200px;
+    overflow: auto;
+    max-width: 90% !important;
+}
+
+.order-table-title {
+    font-size: 1.7rem;
+    font-weight: 500;
+}
+

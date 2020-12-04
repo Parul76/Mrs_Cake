@@ -1,0 +1,29 @@
+.description-column {
+    width: 25% !important;
+    text-align: justify;
+}
+
+.name-column {
+    width: 10% !important;
+}
+
+.price-column {
+    width: 10% !important;
+}
+
+.bakery-column {
+    width: 15% !important;
+}
+
+.image-column {
+    width: 20% !important;
+}
+
+.action-column {
+    width: 12% !important;
+} 
+
+.img_product_table {
+    width: 200px;
+    height: 200px;
+}
